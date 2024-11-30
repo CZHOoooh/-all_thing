@@ -1,0 +1,7 @@
+*.db3
+cards/source/*
+*.Identifier
+s/images/icons-*
+*.back
+go.mod
+go.sum
